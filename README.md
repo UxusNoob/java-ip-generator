@@ -1,2 +1,2 @@
 # java-ip-generator
-Generate a limited number of ip
+Generate a limited number of ip, useful thing
