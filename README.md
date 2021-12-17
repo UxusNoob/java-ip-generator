@@ -1,2 +1,4 @@
 # java-ip-generator
-Generate a limited number of ip, useful thing
+Generate a limited number of ip, useful thing.
+
+Can be used for ddosers
